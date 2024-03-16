@@ -1,3 +1,5 @@
+//o método concat combina dois ou mais arrays em um único array novo, sem modificar os arrays originais. Ele cria e retorna um novo array contendo todos os elementos dos arrays originais combinados.
+
 //Primeiro exemplo
 let cores = ['azul', 'roxo', 'vermelho'];
 //Foi criada uma let (variável) chamada "cores" que armazena um array com três strings: "azul", "roxo" e "vermelho"
@@ -25,3 +27,5 @@ número1[0].push(3);
 
 console.log(números);
 // resulta em [[2, 3], 4, [5]]
+
+
