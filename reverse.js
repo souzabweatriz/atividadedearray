@@ -1,5 +1,7 @@
 // é usado para inverter a ordem dos elementos de um array, modificando o array original.
 
+//PRIMEIRO EXEMPLO
+
 let numeros = [1, 2, 3, 4, 5];
 //Let chamado numeros tem uma lista de números que serão invertidos
 numeros.reverse();
