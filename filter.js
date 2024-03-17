@@ -1,5 +1,7 @@
 // Cria um novo array com todos os elementos que passam no teste implementado pela função fornecida.
 
+//PRIMEIRO EXEMPLO
+
 let numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 //O let tem uma lista de números 
 
