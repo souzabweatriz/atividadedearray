@@ -1,5 +1,7 @@
 //O método map() é usado para percorrer todos os elementos de um array e aplicar uma função a cada um deles, retornando um novo array com os resultados dessa função aplicada a cada elemento.
 
+//PRIMEIRO EXEMPLO
+
 let numeros = [20, 32, 53, 14, 25];
 //variável com os núemros que vão ser multiplicados
 
