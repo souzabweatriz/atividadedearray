@@ -1,5 +1,6 @@
 //O "some" verifica se pelo menos um elemento do array passa no teste implementado pela função fornecida.
 
+//PRIMEIRO EXEMPLO
 let idades = [12, 15, 10];
 //Nesse primeiro let são fornecidas as idades 
 
